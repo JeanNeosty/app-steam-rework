@@ -1,5 +1,4 @@
-Ceci est un squelette de projet pour s'entrainer au SASS avec Bootstrap@5.X, ou pour créer des projets HTML. 
-Pour une utilisation avec un framework javascript preférer une installation via webpack par exemple.
+Ceci est un projet de formation pour s'entrainer avec un sass HTML et SCSS.
 
 
 # Installation
