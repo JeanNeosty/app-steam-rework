@@ -1,4 +1,4 @@
-Ceci est un projet de formation pour s'entrainer avec un sass HTML et SCSS.
+Ceci est un projet de formation pour s'entrainer
 
 
 # Installation
